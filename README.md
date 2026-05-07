@@ -26,9 +26,3 @@ This project analyzes retail store sales performance using Microsoft Excel.
 - Some sub-categories produce negative profit.
 - Regional performance varies significantly.
 
-## Dashboard Screenshots
-
-![Dashboard1](Screenshot 2026-02-25 144155.png)
-![Dashboard2](Screenshot 2026-02-25 144220.png)
-![Dashboard3](Screenshot 2026-02-25 144641.png)
-![Dashboard4](Screenshot 2026-02-25 144804.png)
